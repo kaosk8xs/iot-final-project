@@ -1,0 +1,15 @@
+Data Points
+
+JPA and Fontaine 10-19
+Runk Employee Lot 23-32
+OHill Waste Management 42-50
+Lewis Mountain, Cameron Road 77-90
+Ruffin Hall 96-105 (anomaly: ~106)
+Corner (garage): 113-120
+Corner (garage by hill) 121 - 139 (heavy variance) 
+West Complex/McKim Hall 155-163 )lower than expected)
+In front of Chase Bank @ Corner: 166-171 (heavy variance)
+University Hospital: 180 - 187
+Shamrock: 198 - 210
+Wertland & 10th: 245 - 253
+Dairy Market: 256 - 260
